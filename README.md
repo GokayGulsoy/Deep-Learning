@@ -17,4 +17,6 @@
 13. Generative Models
 14. Exercises Before Final Exam
 
-Textbooks can be found on: [Course textbooks 1](/Textbook/textbook.pdf)
+Textbooks can be found on: [Course textbooks](/Textbooks)
+
+Note: Animal dataset which is required for homework 2 is not contained in this repository as it's size is too big. If you want to implement homework 2 from scratch contact me via `gokaygulsoy144@gmail.com` so that I can provide it.
